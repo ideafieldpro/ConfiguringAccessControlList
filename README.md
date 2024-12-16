@@ -86,7 +86,6 @@ router(config-if)# ip access-group 2 in
 
 - Test connectivity from PC1 to Server1 (should fail):PC1> ping 192.168.1.150
 
-Screenshots
 
 Ref 1: ACL Configuration Example
 ACL Configuration
